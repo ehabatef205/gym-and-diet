@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873118037834",
+    "project_id": "gym-and-died",
+    "storage_bucket": "gym-and-died.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873118037834:android:1e61159ac9cf5a3c17b3b3",
+        "android_client_info": {
+          "package_name": "com.xcodeteam.gym_and_diet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873118037834-o8l8me7ougp4c7o5bid2rup0itu9b1ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAw-wn0khf_k24AYT9fzJXi0SzL2PfKfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873118037834-o8l8me7ougp4c7o5bid2rup0itu9b1ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
